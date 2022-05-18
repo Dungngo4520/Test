@@ -1,2 +1,2 @@
-#TargetFrameworkVersion=v4.0:PlatformToolSet=v140:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=10.0.15063.0
-Debug|x64|C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Test\|
+PlatformToolSet=v142:VCToolArchitecture=Native32Bit:VCToolsVersion=14.29.30133:TargetPlatformVersion=10.0.22000.0:
+Debug|x64|C:\Users\JUMP-WINDOWS\OneDrive\Desktop\vcs intern\Test\|
